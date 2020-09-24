@@ -11,7 +11,7 @@
 - I like playing Rhythm Games, and sometimes make custom charts.
 - I have to rely on others when writing in English most of the time.
 - Ask me anything [here](https://github.com/BillZhou233/BillZhou233/issues).
-  - I may be slow to respond, but I will try to reply at my earliest convenience.
+  - I may be slow to respond, but I will try to reply faster.
 - BillZhou233 is the CUTEST!!1111
 
 </details>
