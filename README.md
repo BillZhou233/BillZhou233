@@ -1,19 +1,4 @@
-### Hi! This is BillZhou233.
-
-- A Competitive Programming Contest player (a.k.a. OIer) in China.
-- I speak Chinese, English ~~and Fujaoese~~.
-- I mostly use C++ and JavaScript.
-  - Though I can use some other programming languages as well, I still need practice.
-
-<details><summary><b>More Infomation</b></summary>
-
-- I prefer to use [Visual Studio Code](https://code.visualstudio.com/) in Windows 10.
-- I like playing Rhythm Games, and sometimes make custom charts.
-- I have to rely on others when writing in English most of the time.
-- Ask me anything [here](https://github.com/BillZhou233/BillZhou233/issues).
-  - I may be slow to respond, but I will try to reply at my earliest convenience.
-
-</details>
+### Hi there 👋
 
 <!--
 **BillZhou233/BillZhou233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
