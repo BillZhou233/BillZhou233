@@ -1,6 +1,4 @@
-### Hi! This is BillZhou233.
-
-#### [→中文版请点此←](https://github.com/BillZhou233/BillZhou233/blob/default/README_zh.md)
+### Hi! This is BillZhou233. | [中文版请点此](https://github.com/BillZhou233/BillZhou233/blob/default/README_zh.md)
 
 - A Competitive Programming Contest player (a.k.a. OIer) in China.
 - I speak Chinese, English ~~and Fujaoese~~.
@@ -11,9 +9,10 @@
 
 - I prefer to use [Visual Studio Code](https://code.visualstudio.com/) in Windows 10.
 - I like playing Rhythm Games, and sometimes make custom charts ~~and abandon them halfways~~.
-- I have to rely on others when writing in English most of the time ~~but mistakes are unavoidable~~.
+- I could be a little sensitive to text formatting standards such as spacing.
+- I may have to rely on others when writing in English most of the time ~~but mistakes are unavoidable~~.
 - Ask me anything [here](https://github.com/BillZhou233/BillZhou233/issues).
-  - I may be slow to respond, but I will try to go through every comment carefully EXCEPT some offensive contexts.
+  - I may be slow to respond, but I will go through every comment carefully EXCEPT some offensive contexts.
 - BillZhou233 is the CUTEST!!1111
 
 </details>
