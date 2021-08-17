@@ -10,10 +10,12 @@
 <details><summary><b>展开更多</b></summary>
 
 - 目前的偏好是在 Windows 11 系统下使用 WSL 和 [Visual Studio Code](https://code.visualstudio.com/) 编辑器。
+- 有时候也会在 VMware 虚拟机里面使用各类 Linux 发行版。
 - 喜欢玩音游，偶尔会写自制谱 ~~大部分时候是写到一半觉得太粪就贵阳了~~。
 - 比较在意标准化的排版，比如空格的使用。
 - 当用英语交流的时候会觉得自己英语很菜，很多时候需要求助于其他工具才行 ~~但是还是经常出错~~。
-- 您可以在 [此处](https://github.com/BillZhou233/BillZhou233/issues) 询问更多问题。
+- 您可以在 [Issues](https://github.com/BillZhou233/BillZhou233/issues) 或 [Dicussions](https://github.com/BillZhou233/BillZhou233/discussions) 询问更多问题。
+  - 必要的时候也可以尝试发送邮件至 [this#billzhou233.moe](mailto:this@billzhou233.moe) 邮箱。
   - 虽然回复可能会很慢，但是每一个提问都会认真看的！（比较冒犯的问题除外）
 - 冰糖酱最可爱了！！1111
 
