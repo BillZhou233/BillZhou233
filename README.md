@@ -14,7 +14,7 @@
 - Like playing Rhythm Games, and sometimes make custom charts ~~and abandon them halfways~~.
 - Could be a little sensitive to text formatting standards such as spacing.
 - May have to rely on others when writing in English most of the time ~~but mistakes are unavoidable~~.
-- Ask me anything in [Issues](https://github.com/BillZhou233/BillZhou233/issues) or [Discussions](https://github.com/BillZhou233/BillZhou233/discussions).
+- Ask me anything in [Discussions](https://github.com/BillZhou233/BillZhou233/discussions) or [Issues](https://github.com/BillZhou233/BillZhou233/issues).
   - Or try mailing to [this#billzhou233.moe](mailto:this@billzhou233.moe) when necessary.
   - I may be slow to respond, but I will go through every comment carefully EXCEPT some offensive contexts.
 - BillZhou233 is the CUTEST!!1111
