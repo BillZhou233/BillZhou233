@@ -4,15 +4,15 @@
 - Also a retired / former Competitive Programming Contest Player (a.k.a. OIer) in China.
 - Can communicate in Chinese, English ~~and Fujaoese~~.
 - Mostly use JavaScript and C++.
-  - For Windows GUI, I may use the classic Visual Basic 6.0 or Visual Basic .NET.
-  - Though I can use some other programming languages as well, I still need more practice.
+  - For Windows GUI, I may use Visual Basic .NET or classic Visual Basic 6.0.
+  - Though I may be able to use some other programming languages as well, I still need more practice.
 
 <details><summary><b>More Information</b></summary>
 
-- Prefer to use [Visual Studio Code](https://code.visualstudio.com/) with WSL in Windows 11.
-- May use some Linux distros with VMware or Hyper-V as well.
+- Prefer to use [Visual Studio Code](https://code.visualstudio.com/) with WSL in Windows 10.
+- May use some Linux distros with Hyper-V or VMware as well.
 - Like playing Rhythm Games, and sometimes make custom charts ~~and abandon them halfways~~.
-- Could be a little sensitive to text formatting standards such as the usage of space.
+- Could be a little sensitive to text format standards such as the usage of space.
 - May have to rely on others when writing in English most of the time ~~but mistakes are unavoidable~~.
 - Ask me anything in [Discussions](https://github.com/BillZhou233/BillZhou233/discussions) or [Issues](https://github.com/BillZhou233/BillZhou233/issues).
   - Or try mailing to [this#billzhou233.moe](mailto:this@billzhou233.moe) when necessary.
