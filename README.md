@@ -2,6 +2,7 @@
 
 - A developer with limited ability.
 - Also a retired / former Competitive Programming Contest Player (a.k.a. OIer) in China.
+- Currently a WinServer user.
 - Can communicate in Chinese, English ~~and Fujaoese~~.
 - Mostly use JavaScript and C++.
   - For Windows GUI, I may use Visual Basic .NET or classic Visual Basic 6.0.
@@ -9,7 +10,7 @@
 
 <details><summary><b>More Information</b></summary>
 
-- Prefer to use [Visual Studio Code](https://code.visualstudio.com/) with WSL in Windows 10.
+- Prefer to use [Visual Studio Code](https://code.visualstudio.com/) with WSL1 in Windows 10.
 - May use some Linux distros with Hyper-V or VMware as well.
 - Like playing Rhythm Games, and sometimes make custom charts ~~and abandon them halfways~~.
 - Could be a little sensitive to text format standards such as the usage of space.
