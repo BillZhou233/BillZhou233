@@ -1,7 +1,8 @@
 ### 小天使请安！这里是冰糖酱（a.k.a BillZhou233）~
 
-- 能力十分有限的咸鱼 Dev，也稍微会调一点点 Linux 服务器 ~~虽然现在用的都是 WinServer~~。
-- 退役 OIer，现在不打 ACM。
+- 能力十分有限的摸鱼 Dev。
+- 退役 OIer，但是不打 ACM（懒，摸了）。
+- 目前使用着 WinServer 服务器。
 - 可以使用中文、英语 ~~以及符语~~ 交流。
 - 常用的程序语言是 JavaScript 和 C++。
   - 写 Windows GUI 的时候会用 VB .NET 或古董 VB6.0。
