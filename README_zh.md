@@ -1,18 +1,17 @@
 ### 小天使请安！这里是冰糖酱（a.k.a BillZhou233）~
 
 - 能力十分有限的摸鱼 Dev。
-- 退役 OIer，但是不打 ACM（懒，摸了）。
-- 目前使用着 WinServer 服务器。
+- 曾经是 OIer，现在是快乐大学生，不打 ACM（懒了）。
+- 目前拥有使用 WinServer 的云服务器。
 - 可以使用中文、英语 ~~以及符语~~ 交流。
 - 常用的程序语言是 JavaScript 和 C++。
-  - 写 Windows GUI 的时候会用 VB .NET 或古董 VB6.0。
+  - 写 Windows GUI 的时候会用 VB .NET 或经典版 VB6.0。
   - 虽然也可以使用其他语言，但是仍需练习...
 
 <details><summary><b>展开更多</b></summary>
 
-- 目前的偏好是在 Windows 10 系统以及 WSL1 子系统下使用 [Visual Studio Code](https://code.visualstudio.com/) 编辑器。
-- 有时候也会在 Hyper-V 或 VMware 虚拟机里面使用各类 Linux 发行版。
-- 喜欢玩音游，偶尔会写自制谱 ~~大部分时候是写到一半觉得太粪就贵阳了~~。
+- 目前的偏好是使用 Windows 10 系统和 [Visual Studio Code](https://code.visualstudio.com/) 编辑器。
+- 需要基于 Linux 的工具链时，会使用 WSL1，并通过 Remote WSL 插件与主机上的 VS Code 进行配合。
 - 比较在意标准化的排版，比如空格的使用。
 - 用英语交流的很多时候需要求助于其他工具才行 ~~但是还是经常出错~~。
 - 您可以在 [Dicussions](https://github.com/BillZhou233/BillZhou233/discussions) 或 [Issues](https://github.com/BillZhou233/BillZhou233/issues) 询问更多问题。
