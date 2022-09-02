@@ -10,10 +10,9 @@
 
 <details><summary><b>More Information</b></summary>
 
-- Prefer to use [Visual Studio Code](https://code.visualstudio.com/) with WSL1 in Windows 10.
-- May use some Linux distros with Hyper-V or VMware as well.
-- Like playing Rhythm Games, and sometimes make custom charts ~~and abandon them halfways~~.
-- Could be a little sensitive to text format standards such as the usage of space.
+- Prefer to use [Visual Studio Code](https://code.visualstudio.com/) in Windows 10.
+- Also use WSL1 with VS Code Remote WSL plugin for Linux-based toolchains.
+- Could be a little sensitive to text formation such as the usage of space.
 - May have to rely on others when writing in English most of the time ~~but mistakes are unavoidable~~.
 - Ask me anything in [Discussions](https://github.com/BillZhou233/BillZhou233/discussions) or [Issues](https://github.com/BillZhou233/BillZhou233/issues).
   - Or try mailing to [this#billzhou233.moe](mailto:this@billzhou233.moe) when necessary.
