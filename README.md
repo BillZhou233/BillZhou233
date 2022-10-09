@@ -2,7 +2,7 @@
 
 - A developer with limited ability.
 - Also a retired / former Competitive Programming Contest Player (a.k.a. OIer) in China.
-- Currently a WinServer user.
+- Currently a WinServer system owner, but using a Linux-based server is also OK.
 - Can communicate in Chinese, English ~~and Fujaoese~~.
 - Mostly use JavaScript and C++.
   - For Windows GUI, I may use Visual Basic .NET or classic Visual Basic 6.0.
